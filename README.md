@@ -3,4 +3,6 @@ Github intoduction
 
 Hello
 
-My name is Sam, I am learing Github and many other exciting programming technologies.
+My name is Samuel, I am learing Github and many other exciting programming technologies.
+
+This is some further text.
